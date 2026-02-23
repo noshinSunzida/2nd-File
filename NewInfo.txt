@@ -1,3 +1,4 @@
 Name: Sunzida
 ID: 56486
 Section: Q
+Course Name: SE
